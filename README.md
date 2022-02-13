@@ -1,2 +1,2 @@
 # VehicleWithClasses
-A vehicle class project in Java
+This app runs a travel simulation for a variety of vehicles. 

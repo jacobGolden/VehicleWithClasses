@@ -1,8 +1,6 @@
 /************************
  * Boat.java
- * CS257 LAB6
  * Author: Jacob Golden
- * Date: 2/17/2020
  ************************/
 
 public class Boat extends Vehicle {

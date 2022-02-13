@@ -1,8 +1,6 @@
 /************************
  * Car.java
- * CS257 LAB6
  * Author: Jacob Golden
- * Date: 2/17/2020
  ************************/
 
 import java.util.Random;

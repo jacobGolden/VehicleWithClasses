@@ -1,6 +1,5 @@
 // Driver.java
-// CS257 Lab 6 Application Program
-// Kevin Sahr, 2/9/16
+// Author: Jacob Golden
 
 public class Driver
 {
